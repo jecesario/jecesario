@@ -67,6 +67,12 @@
    <a href="https://www.eclipse.org/downloads/">
       <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
    </a>
+   <a href="https://developer.android.com/docs?hl=pt">
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white">
+   </a>
+   <a href="https://www.postman.com">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+   </a>
    <a href="https://git-scm.com">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
    </a>
